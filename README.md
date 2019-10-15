@@ -9,7 +9,7 @@ Fundamentem jej działania jest niski próg wejścia tak aby każdy mógł poprz
 Gra jest złożona z 5 poziomów przedstawiających cykl życia plastikowej torebki.
 
 • Poziom 1
-• Poziom 2
+• Poziom 2 -  torebka jest w sklepie i zbiera produkty.
 • Poziom 3
 • Poziom 4
 • Poziom 5
