@@ -11,3 +11,6 @@ Gra jest złożona z 5 poziomów przedstawiających cykl życia plastikowej tore
 Skoro gra ma być łatwym wstępem do zrozumienia jak ważne są codzienne wybory ludzi i ich nawyki postaraliśmy się o integracje gry z serwisami społecznościowymi.
 
 Na planszy startowej pojawiają sie losowane ciekawostki i inspirujące wskazówki.
+
+
+Ze względu na problemy techniczne ostatniego dnia repozytorium znajduje się w plikach zip repo1.zip.001 i repo1.zip.002
